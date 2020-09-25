@@ -1,0 +1,2 @@
+citrizine;strong;1;1;12;12
+Naproxen;strong;1;1;250;250

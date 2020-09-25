@@ -1,0 +1,5 @@
+citrizine;strong;1*2;2;12;24
+citrizine;weak;1;1;12;12
+Piriton;12gms;1;1;5;5
+citrizine;12gms;1*2;10;2;20
+TOTAL;;;;;20

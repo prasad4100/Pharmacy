@@ -1,0 +1,4 @@
+citrizine;strong;1*2;1;12;12
+Dual Cotexin;strong;1*2;2;120;240
+Naproxen;weak;11;1;250;250
+TOTAL;;;;;490

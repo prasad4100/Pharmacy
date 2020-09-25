@@ -1,0 +1,4 @@
+TOTAL;;;;;
+TOTAL;;;;;
+Piriton;12gms;1*2;2;5;10
+TOTAL;;;;;10

@@ -1,0 +1,6 @@
+citrizine;strong;1*2;2;12;24
+Select Drug;stts;5q;2;;0
+citrizine;strong;1*2;4;12;48
+citrizine;strong;1;1;12;12
+citrizine;strong;strong;1;12;12
+Piriton;12GMS;1*2;1;5;5
